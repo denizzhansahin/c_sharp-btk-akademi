@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/bin/Debug/net7.0/degiskenUygulama
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/bin/Debug/net7.0/degiskenUygulama.deps.json
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/bin/Debug/net7.0/degiskenUygulama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/bin/Debug/net7.0/degiskenUygulama.dll
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/bin/Debug/net7.0/degiskenUygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.dll
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/refint/degiskenUygulama.dll
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/degiskenUygulama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenUygulama/obj/Debug/net7.0/ref/degiskenUygulama.dll

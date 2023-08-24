@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/bin/Debug/net7.0/degiskenKurallari
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/bin/Debug/net7.0/degiskenKurallari.deps.json
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/bin/Debug/net7.0/degiskenKurallari.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/bin/Debug/net7.0/degiskenKurallari.dll
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/bin/Debug/net7.0/degiskenKurallari.pdb
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.dll
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/refint/degiskenKurallari.dll
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.pdb
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/degiskenKurallari.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/2-Değişkenler/degiskenKurallari/obj/Debug/net7.0/ref/degiskenKurallari.dll

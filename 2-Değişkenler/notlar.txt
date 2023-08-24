@@ -1,0 +1,32 @@
+var kdvOrani = 1.18; //değişken oluşturma
+Console.WriteLine(6000 * 1.18); //urunB
+Console.WriteLine(7000 * kdvOrani); //urunC
+Console.WriteLine("Eski Alan");
+
+//yorum satırı
+
+var 2sayi = 20; //hatali
+var sayi2 = 20; //doğru
+var sa1yi = 30; //doğru
+
+Aynı kapsam içinde tekrar bir değişken ismi ile tanımlama yapılamaz.
+var a = 11;
+var a = 11;
+Doğrusu:
+var a = 11;
+a = 11;
+
+var satisMi = true;
+
+var ö = 12312;
+
+/*
+çoklu yorum satırı
+*/
+
+Kontrol + K + C  : her satıra // ekler.
+ctrl + k + C
+//1
+//1
+
+
