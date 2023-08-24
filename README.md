@@ -19,8 +19,11 @@ https://www.mono-project.com/download/stable/#download-lin-debian
 dotnet new console -n proje_adi   : Yeni bir proje oluştur, bu komut ile konsol teması ile çalışan bir uygulama oluşturdunz. Burada yer alan .cs uzantılı dosyayı düzenleyebilir ya da bu dosyayı silip yeni .cs uzantılı dosya ekleyebilirsiniz.
 
 cd proje_adi                      : Proje içine git
+
 dotnet build                      : Projeyi derle
+
 dotnet run                        : Projeyi çalıştır
+
 dotnet clean                      : Projeyi isteğe bağlı olarak temizle
 
 # Mono-Project ile Proje Oluşturmak ve Yönetmek
