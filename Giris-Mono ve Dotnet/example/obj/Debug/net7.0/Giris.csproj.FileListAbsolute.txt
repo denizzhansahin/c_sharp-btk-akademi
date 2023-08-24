@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/Giris/bin/Debug/net7.0/Giris
+/home/denshn/Masaüstü/C#-BTK/Giris/bin/Debug/net7.0/Giris.deps.json
+/home/denshn/Masaüstü/C#-BTK/Giris/bin/Debug/net7.0/Giris.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/Giris/bin/Debug/net7.0/Giris.dll
+/home/denshn/Masaüstü/C#-BTK/Giris/bin/Debug/net7.0/Giris.pdb
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.dll
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/refint/Giris.dll
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.pdb
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/Giris.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/Giris/obj/Debug/net7.0/ref/Giris.dll

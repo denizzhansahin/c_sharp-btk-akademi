@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Giris", "1-Giris", "{C3B64B5C-75CF-46C3-8915-4465F2598409}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "consoleApp", "1-Giris\consoleApp\consoleApp.csproj", "{81229361-5512-4F77-B056-332A300D5116}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Giris-Mono ve Dotnet", "Giris-Mono ve Dotnet", "{C049797B-6C85-43EA-81A0-1F4E8C8BFE30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giris", "Giris-Mono ve Dotnet\example\Giris.csproj", "{F73242FF-7736-4964-8E14-31C1A4FE3C47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Değişkenler", "2-Değişkenler", "{AE7C0426-D77C-4609-9401-6E56604C6AEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "degiskenUygulama", "2-Değişkenler\degiskenUygulama\degiskenUygulama.csproj", "{B124AFA0-497E-46A7-AED6-B0734F3913F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "degiskenKurallari", "2-Değişkenler\degiskenKurallari\degiskenKurallari.csproj", "{73EB8DC8-6454-4426-9F7E-00140D5D9B88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "consoleApp", "2-Değişkenler\consoleApp\consoleApp.csproj", "{4BD4ADF6-814D-4A4E-9167-C7762DB3883C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81229361-5512-4F77-B056-332A300D5116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81229361-5512-4F77-B056-332A300D5116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81229361-5512-4F77-B056-332A300D5116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81229361-5512-4F77-B056-332A300D5116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73242FF-7736-4964-8E14-31C1A4FE3C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73242FF-7736-4964-8E14-31C1A4FE3C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73242FF-7736-4964-8E14-31C1A4FE3C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73242FF-7736-4964-8E14-31C1A4FE3C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B124AFA0-497E-46A7-AED6-B0734F3913F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B124AFA0-497E-46A7-AED6-B0734F3913F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B124AFA0-497E-46A7-AED6-B0734F3913F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B124AFA0-497E-46A7-AED6-B0734F3913F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EB8DC8-6454-4426-9F7E-00140D5D9B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EB8DC8-6454-4426-9F7E-00140D5D9B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EB8DC8-6454-4426-9F7E-00140D5D9B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EB8DC8-6454-4426-9F7E-00140D5D9B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD4ADF6-814D-4A4E-9167-C7762DB3883C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD4ADF6-814D-4A4E-9167-C7762DB3883C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD4ADF6-814D-4A4E-9167-C7762DB3883C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD4ADF6-814D-4A4E-9167-C7762DB3883C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81229361-5512-4F77-B056-332A300D5116} = {C3B64B5C-75CF-46C3-8915-4465F2598409}
+		{F73242FF-7736-4964-8E14-31C1A4FE3C47} = {C049797B-6C85-43EA-81A0-1F4E8C8BFE30}
+		{B124AFA0-497E-46A7-AED6-B0734F3913F9} = {AE7C0426-D77C-4609-9401-6E56604C6AEE}
+		{73EB8DC8-6454-4426-9F7E-00140D5D9B88} = {AE7C0426-D77C-4609-9401-6E56604C6AEE}
+		{4BD4ADF6-814D-4A4E-9167-C7762DB3883C} = {AE7C0426-D77C-4609-9401-6E56604C6AEE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A35F9A30-FF68-4763-9947-899032D9B859}
+	EndGlobalSection
+EndGlobal

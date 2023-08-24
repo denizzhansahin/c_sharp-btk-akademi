@@ -1,0 +1,3 @@
+csc /out:deneme123 deneme.cs
+
+mono deneme123

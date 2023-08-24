@@ -1,0 +1,8 @@
+dotnet --version : Versiyon öğrenme
+dotnet --help : Bütün komutları öğrenme
+dotnet new : Paket oluşturma --help ve list ile yardım ve temaları gör
+dotnet new console : Konsol uygulaması geliştirme
+dotnet new console -n consoleApp : consoleApp isminde bir proje oluşturmak
+dotnet build : Bir projeyi derle, dll oluşturur.
+dotnet run : Projeyi derle ve çalıştır
+dotnet clean : proje dosyalarını sil

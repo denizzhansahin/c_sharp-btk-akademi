@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/bin/Debug/net7.0/consoleApp
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/bin/Debug/net7.0/consoleApp.deps.json
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/bin/Debug/net7.0/consoleApp.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/bin/Debug/net7.0/consoleApp.dll
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/bin/Debug/net7.0/consoleApp.pdb
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.dll
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/refint/consoleApp.dll
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.pdb
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/consoleApp.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/1-Giris/consoleApp/obj/Debug/net7.0/ref/consoleApp.dll
