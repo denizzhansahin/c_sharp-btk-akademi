@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/bin/Debug/net7.0/String
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/bin/Debug/net7.0/String.deps.json
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/bin/Debug/net7.0/String.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/bin/Debug/net7.0/String.dll
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/bin/Debug/net7.0/String.pdb
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.dll
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/refint/String.dll
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.pdb
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/String.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/4-String-Date/String/obj/Debug/net7.0/ref/String.dll

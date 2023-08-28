@@ -1,0 +1,36 @@
+String : Karakter dizileri
+string concat : birleştirme :
+string mesaj1 = ad +" "+  soyad + "isimli kişi 20 yaşındadır";
+string, reference tiptedir. => null
+
+//string interpolation
+string mesaj = $"{ad} {soyad} kişisi {yas} yaşındadır.";
+
+String Metodlari: String ile ilgili fonksiyonlar, önceden dahili gelen metodlar kullanılabilir
+var sonuc = mesaj.ToLower(); // hepsi küçük karakter oldu
+var sonuc1 = mesaj.ToUpper(); // hepsi büyük olsun
+var sonuc2 = mesaj.Trim();//baştaki sondaki boşlukları sil
+var sonuc3 = mesaj.Split(" "); // bir karaktere göre string dizisine ayır
+var sonuc4 = mesaj[3]; // string içindeki index'e denk gelen değeri gör
+var sonuc5 = mesaj.Split(" ")[3]; // bir karaktere göre string dizisine ayır
+var sonuc6 = mesaj1.StartsWith("Denizhan"); //bu ile mi başladı
+var sonuc7 = mesaj1.EndsWith("."); //bu ile mi bitti
+var sonuc8 = mesaj1.Contains("Denizha"); //arama, var mı yok mu
+var sonuc9 = mesaj1.Contains("Mehmet"); //arama, var mı yok mu
+var sonuc10 = mesaj1.IndexOf("kişi"); //kaçıncı yerde var
+var sonuc11 = mesaj1.IndexOf("addd"); //kaçıncı yerde var, -1 ise yok demektir
+var sonuc12 = mesaj1.Substring(10);//bu stringi getir
+var sonuc13 = mesaj1.Substring(0,15);//bu stringi getir
+var guncellenmisString = kursAdi.Replace("Dili","Dersleri");
+
+DATE:
+var simdi = DateTime.Now;
+DateTime simdi2 = DateTime.Now;
+Console.WriteLine(simdi.Year);
+
+//olusturma ve degistirme
+DateTime dt = new DateTime(2018,6,10,12,15,13,14);
+DateTime dt2 = dt.AddYears(1);;
+
+var fark = simdi - dt;
+Console.WriteLine(fark.TotalDays);
