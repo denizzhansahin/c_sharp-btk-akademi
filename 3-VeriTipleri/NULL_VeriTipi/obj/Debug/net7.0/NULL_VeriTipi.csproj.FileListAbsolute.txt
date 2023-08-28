@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/bin/Debug/net7.0/NULL_VeriTipi
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/bin/Debug/net7.0/NULL_VeriTipi.deps.json
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/bin/Debug/net7.0/NULL_VeriTipi.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/bin/Debug/net7.0/NULL_VeriTipi.dll
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/bin/Debug/net7.0/NULL_VeriTipi.pdb
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.dll
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/refint/NULL_VeriTipi.dll
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.pdb
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/NULL_VeriTipi.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/NULL_VeriTipi/obj/Debug/net7.0/ref/NULL_VeriTipi.dll

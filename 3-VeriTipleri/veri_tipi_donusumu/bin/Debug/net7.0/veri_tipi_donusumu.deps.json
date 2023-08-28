@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "veri_tipi_donusumu/1.0.0": {
+        "runtime": {
+          "veri_tipi_donusumu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "veri_tipi_donusumu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

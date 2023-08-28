@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/bin/Debug/net7.0/veri-tipi-donusumu-2
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/bin/Debug/net7.0/veri-tipi-donusumu-2.deps.json
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/bin/Debug/net7.0/veri-tipi-donusumu-2.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/bin/Debug/net7.0/veri-tipi-donusumu-2.dll
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/bin/Debug/net7.0/veri-tipi-donusumu-2.pdb
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.dll
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/refint/veri-tipi-donusumu-2.dll
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.pdb
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/veri-tipi-donusumu-2.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/3-VeriTipleri/veri-tipi-donusumu-2/obj/Debug/net7.0/ref/veri-tipi-donusumu-2.dll

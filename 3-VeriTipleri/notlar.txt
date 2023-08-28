@@ -1,0 +1,36 @@
+Veri Tipleri:
+Value Types:
+tam sayı: byte,short,int,long
+ondalıklı: float,double,decimal
+diğer veri tipleri : char, boolean, struct
+
+Reference Types:
+String class, array,interface
+
+Bellek Üzerinde veri saklama : 
+Stack, Heap; bir adres içine bir veri saklanır
+value types, stack içine saklanır
+kopyalama işlemi, x değeri y değişkeni içine kopyalanırsa stack içinde
+
+Veri Tipi Dönüşümü :
+Console.ReadLine(); //satırı okur ve string türünde okur, herhabgibir değer yok ise NULL gönderir
+Kullanıcıdan veri alır
+Console.Write("1. Sayı : "); satır atlamaz
+Console.WriteLine("1. Sayı : "); satır atlar
+
+tip donusumu : var sayi1 = Convert.ToInt32("10");
+
+Veri Tipi Dönüşümü
+implict casting bilinçisz Dönüşüm
+explicit casting bilinçli dönüşüm
+//bilinçli tür dönüşümü
+long d = 20;
+int e = (int)d;
+veri kaybı oluşabilir
+string z = x.ToString();
+
+Nullable Types:
+int a; //runtime error
+int? a = 12;
+int a = 12;
+bir sayının default değeri 0'dır
