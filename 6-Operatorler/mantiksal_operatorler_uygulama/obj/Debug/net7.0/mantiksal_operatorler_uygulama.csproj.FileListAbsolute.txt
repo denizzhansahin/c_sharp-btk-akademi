@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/bin/Debug/net7.0/mantiksal_operatorler_uygulama
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/bin/Debug/net7.0/mantiksal_operatorler_uygulama.deps.json
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/bin/Debug/net7.0/mantiksal_operatorler_uygulama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/bin/Debug/net7.0/mantiksal_operatorler_uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/bin/Debug/net7.0/mantiksal_operatorler_uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/refint/mantiksal_operatorler_uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/mantiksal_operatorler_uygulama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/mantiksal_operatorler_uygulama/obj/Debug/net7.0/ref/mantiksal_operatorler_uygulama.dll
