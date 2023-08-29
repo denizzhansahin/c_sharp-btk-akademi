@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/bin/Debug/net7.0/aritmetik_uygulama
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/bin/Debug/net7.0/aritmetik_uygulama.deps.json
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/bin/Debug/net7.0/aritmetik_uygulama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/bin/Debug/net7.0/aritmetik_uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/bin/Debug/net7.0/aritmetik_uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/refint/aritmetik_uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/aritmetik_uygulama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/aritmetik_uygulama/obj/Debug/net7.0/ref/aritmetik_uygulama.dll

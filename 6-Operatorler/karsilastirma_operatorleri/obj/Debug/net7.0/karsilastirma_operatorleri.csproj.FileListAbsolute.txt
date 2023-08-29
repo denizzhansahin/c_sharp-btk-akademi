@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/bin/Debug/net7.0/karsilastirma_operatorleri
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/bin/Debug/net7.0/karsilastirma_operatorleri.deps.json
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/bin/Debug/net7.0/karsilastirma_operatorleri.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/bin/Debug/net7.0/karsilastirma_operatorleri.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/bin/Debug/net7.0/karsilastirma_operatorleri.pdb
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/refint/karsilastirma_operatorleri.dll
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.pdb
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/karsilastirma_operatorleri.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/6-Operatorler/karsilastirma_operatorleri/obj/Debug/net7.0/ref/karsilastirma_operatorleri.dll

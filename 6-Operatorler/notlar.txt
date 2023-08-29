@@ -1,0 +1,52 @@
+Operatorler:
+Aritmetik Operatorler
+Atama Operatorleri
+Karşılaştırma Operatorleri
+Mantıksla Operatorler
+
+Aritmetik Operatorler:
++,-,*,/,%,++,--
+a++, ++a, a--, --a
+örnek : int a = 2; int b = a++; a'yı b'ye ata ve a bir artsın
+sonuc ise a = 3, b=2
+++ veya -- önce ise ilgili değişkenin son hali, önce ise ilgili değişkenin önceki değeri işleme alınır
+int a = 2; int b= ++a;
+a=3 b=3
+int.Parse() ve Convert.ToInt32() aynı görevi görmektedir.
+
+Atama Operatorleri:
+=,+=,-=,*=,/=,%=
+Math sınıfı burada konu edindi.
+pow : üslü sayı
+sqrt : karesi
+abs : mutlak uzaklık
+round : en yakına çevir
+ceiling : en yukarı yuvarla
+floor : en yakın aşağı yuvarla
+max : en büüyk bul
+min : en kucuk bul
+
+Karşılaştırma Operatorleri:
+==, !=, <,>,<=,>=,?:,
+?: komudu örneği , bunun adı ternary,
+a>b ? "a buyuk" : "b buyuk"
+int a = 5, b = 6;
+var sonuc = (a == b)
+
+Mantıksal Operatorler:
+&& - ve :
+true && true => true
+true && false => false
+false && false => false
+|| - veya : 
+true || true => true
+true || false => true
+false || false => false
+! - değil :
+!(true)=>false
+!(false)=>true
+
+Random:
+Random rnd = new Random();
+var rnd = new Random();
+rnd.Next();//boş ise negatif olmayan sayı üretir.
