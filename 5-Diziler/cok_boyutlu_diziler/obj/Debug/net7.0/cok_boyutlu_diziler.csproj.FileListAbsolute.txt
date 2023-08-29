@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/bin/Debug/net7.0/cok_boyutlu_diziler
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/bin/Debug/net7.0/cok_boyutlu_diziler.deps.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/bin/Debug/net7.0/cok_boyutlu_diziler.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/bin/Debug/net7.0/cok_boyutlu_diziler.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/bin/Debug/net7.0/cok_boyutlu_diziler.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/refint/cok_boyutlu_diziler.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/cok_boyutlu_diziler.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/cok_boyutlu_diziler/obj/Debug/net7.0/ref/cok_boyutlu_diziler.dll

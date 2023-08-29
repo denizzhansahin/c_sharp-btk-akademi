@@ -1,36 +1,51 @@
-String : Karakter dizileri
-string concat : birleştirme :
-string mesaj1 = ad +" "+  soyad + "isimli kişi 20 yaşındadır";
-string, reference tiptedir. => null
+Dizi Nedir?
+örnek olarak string, her bir karatker bir indexte tutulur
+indecleme mantığı vardır
 
-//string interpolation
-string mesaj = $"{ad} {soyad} kişisi {yas} yaşındadır.";
+tek boyutlu diziler ve çok boyutlu diziler vardır
+örnek olarak bir isim bir tek boyutlı dizidir ama isimlerin yer aldığı bir dizi çok boyutlu bir dizidir.
+yani birinci ismin birinci karakteri
+tek boyutlu diziler dizi[1]
 
-String Metodlari: String ile ilgili fonksiyonlar, önceden dahili gelen metodlar kullanılabilir
-var sonuc = mesaj.ToLower(); // hepsi küçük karakter oldu
-var sonuc1 = mesaj.ToUpper(); // hepsi büyük olsun
-var sonuc2 = mesaj.Trim();//baştaki sondaki boşlukları sil
-var sonuc3 = mesaj.Split(" "); // bir karaktere göre string dizisine ayır
-var sonuc4 = mesaj[3]; // string içindeki index'e denk gelen değeri gör
-var sonuc5 = mesaj.Split(" ")[3]; // bir karaktere göre string dizisine ayır
-var sonuc6 = mesaj1.StartsWith("Denizhan"); //bu ile mi başladı
-var sonuc7 = mesaj1.EndsWith("."); //bu ile mi bitti
-var sonuc8 = mesaj1.Contains("Denizha"); //arama, var mı yok mu
-var sonuc9 = mesaj1.Contains("Mehmet"); //arama, var mı yok mu
-var sonuc10 = mesaj1.IndexOf("kişi"); //kaçıncı yerde var
-var sonuc11 = mesaj1.IndexOf("addd"); //kaçıncı yerde var, -1 ise yok demektir
-var sonuc12 = mesaj1.Substring(10);//bu stringi getir
-var sonuc13 = mesaj1.Substring(0,15);//bu stringi getir
-var guncellenmisString = kursAdi.Replace("Dili","Dersleri");
+çok boyutlu diziler ise dizi[1][1]
 
-DATE:
-var simdi = DateTime.Now;
-DateTime simdi2 = DateTime.Now;
-Console.WriteLine(simdi.Year);
+atama icin dizi[1] = "a"; dizi[1][1]="b";
 
-//olusturma ve degistirme
-DateTime dt = new DateTime(2018,6,10,12,15,13,14);
-DateTime dt2 = dt.AddYears(1);;
+int[,] sayilar = new int[3,5];
+string[] adlar = new string[5];
 
-var fark = simdi - dt;
-Console.WriteLine(fark.TotalDays);
+Dizi Tanımlama:
+string[] isimler = new string[5]; //bellekte beştane string alanı tanımla
+string[] isimler1 = {"Denizhan","Şahin","Mehmet","Akınol"};
+int[] numaralar1 = {100,200,300,400};
+
+Dizi Metodları:
+Console.WriteLine(sehirler.GetValue(1));
+Array.Sort(plakalar);//sayısal sıralama
+Array.Reverse(plakalar);//ters çevirme
+Array.Clear(plakalar);
+Array.Clear(plakalar2,0,1); //0 indexten itibaren 1 tane sil
+
+Slicing(Parçalama):
+var sonuc = sehirler[0..3];//0dan başla 3'e kadar,3 dahil değil
+
+Uygulama:
+grenciler[i] = Console.ReadLine() ??"";
+notlar[i] = Convert.ToInt32(Console.ReadLine());
+using static System.Linq.Enumerable;
+foreach (var i in Range(0,3))
+
+Çok Boyutlu Diziler:
+int[,] notlar = new int[3,3]; //her bir index içinde 3 tane elemana sahip ayrı bir boyut açılır
+notlar[0,0] = 50; //baslangic
+notlar[2,2]= 50; //en son
+
+Referans Tipler:
+Referans tiplerin bellekte saklanma şekli farklıdır
+int[] t={10,20};
+stack üzerinde saklanmak yerine ilgili alana adres bilgisi atanır.
+Bu adres alanı ise heap alanını belirtir, bu alandaki adresi
+Pointerlar çalışır diyebiliriz, işaret etme mantığı çalışır.
+int i = 0; doğrudan stack üzerindeki bir bellek alanına değer atanır
+int[] i = {10,20}; doğrudan heap bölgesine değer atanır, değerin saklandığı alanın adresi ise stack içinde saklanır
+

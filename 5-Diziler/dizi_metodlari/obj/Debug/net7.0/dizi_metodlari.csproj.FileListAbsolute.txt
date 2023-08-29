@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/bin/Debug/net7.0/dizi_metodlari
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/bin/Debug/net7.0/dizi_metodlari.deps.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/bin/Debug/net7.0/dizi_metodlari.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/bin/Debug/net7.0/dizi_metodlari.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/bin/Debug/net7.0/dizi_metodlari.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/refint/dizi_metodlari.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/dizi_metodlari.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_metodlari/obj/Debug/net7.0/ref/dizi_metodlari.dll
