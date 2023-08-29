@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/bin/Debug/net7.0/ReferansTipler
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/bin/Debug/net7.0/ReferansTipler.deps.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/bin/Debug/net7.0/ReferansTipler.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/bin/Debug/net7.0/ReferansTipler.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/bin/Debug/net7.0/ReferansTipler.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/refint/ReferansTipler.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ReferansTipler.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/ReferansTipler/obj/Debug/net7.0/ref/ReferansTipler.dll

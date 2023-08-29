@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/bin/Debug/net7.0/dizi_tanimlama
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/bin/Debug/net7.0/dizi_tanimlama.deps.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/bin/Debug/net7.0/dizi_tanimlama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/bin/Debug/net7.0/dizi_tanimlama.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/bin/Debug/net7.0/dizi_tanimlama.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/refint/dizi_tanimlama.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/dizi_tanimlama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/dizi_tanimlama/obj/Debug/net7.0/ref/dizi_tanimlama.dll

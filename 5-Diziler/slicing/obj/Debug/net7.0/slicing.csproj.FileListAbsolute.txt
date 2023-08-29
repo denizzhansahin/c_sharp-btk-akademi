@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/bin/Debug/net7.0/slicing
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/bin/Debug/net7.0/slicing.deps.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/bin/Debug/net7.0/slicing.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/bin/Debug/net7.0/slicing.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/bin/Debug/net7.0/slicing.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/refint/slicing.dll
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.pdb
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/slicing.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/5-Diziler/slicing/obj/Debug/net7.0/ref/slicing.dll
