@@ -1,0 +1,24 @@
+Başla-KodBloğu-Dur
+Her blok kendi kapsamını tanımlar
+Her blok çıktığımızda veriler bellekten silinir
+kapsam = scope
+
+global scope = en genel, en dıştaki alan
+yerel scope = global'in altinda bulunur
+
+Satır satır kodlar çalışır, yukarıdan aşağı, ama koşullu bloklar ile istenilen blok çalıştırılır.
+
+if/else, switch/case,tenary(?:)
+
+Switch-Case:
+switch (ay){
+    case 12:
+    case 1:
+    case 2:
+        Console.WriteLine("Kış");
+        break;
+    default:
+        a = 2;
+
+Ternary:
+var sonuc = (sayi % 2== 0) ? "sayı çift" : "sayi tek";
