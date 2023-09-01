@@ -1,0 +1,51 @@
+Dizi Nedir?
+örnek olarak string, her bir karatker bir indexte tutulur
+indecleme mantığı vardır
+
+tek boyutlu diziler ve çok boyutlu diziler vardır
+örnek olarak bir isim bir tek boyutlı dizidir ama isimlerin yer aldığı bir dizi çok boyutlu bir dizidir.
+yani birinci ismin birinci karakteri
+tek boyutlu diziler dizi[1]
+
+çok boyutlu diziler ise dizi[1][1]
+
+atama icin dizi[1] = "a"; dizi[1][1]="b";
+
+int[,] sayilar = new int[3,5];
+string[] adlar = new string[5];
+
+Dizi Tanımlama:
+string[] isimler = new string[5]; //bellekte beştane string alanı tanımla
+string[] isimler1 = {"Denizhan","Şahin","Mehmet","Akınol"};
+int[] numaralar1 = {100,200,300,400};
+
+Dizi Metodları:
+Console.WriteLine(sehirler.GetValue(1));
+Array.Sort(plakalar);//sayısal sıralama
+Array.Reverse(plakalar);//ters çevirme
+Array.Clear(plakalar);
+Array.Clear(plakalar2,0,1); //0 indexten itibaren 1 tane sil
+
+Slicing(Parçalama):
+var sonuc = sehirler[0..3];//0dan başla 3'e kadar,3 dahil değil
+
+Uygulama:
+grenciler[i] = Console.ReadLine() ??"";
+notlar[i] = Convert.ToInt32(Console.ReadLine());
+using static System.Linq.Enumerable;
+foreach (var i in Range(0,3))
+
+Çok Boyutlu Diziler:
+int[,] notlar = new int[3,3]; //her bir index içinde 3 tane elemana sahip ayrı bir boyut açılır
+notlar[0,0] = 50; //baslangic
+notlar[2,2]= 50; //en son
+
+Referans Tipler:
+Referans tiplerin bellekte saklanma şekli farklıdır
+int[] t={10,20};
+stack üzerinde saklanmak yerine ilgili alana adres bilgisi atanır.
+Bu adres alanı ise heap alanını belirtir, bu alandaki adresi
+Pointerlar çalışır diyebiliriz, işaret etme mantığı çalışır.
+int i = 0; doğrudan stack üzerindeki bir bellek alanına değer atanır
+int[] i = {10,20}; doğrudan heap bölgesine değer atanır, değerin saklandığı alanın adresi ise stack içinde saklanır
+
