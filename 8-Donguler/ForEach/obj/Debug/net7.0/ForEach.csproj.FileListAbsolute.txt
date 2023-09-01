@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/bin/Debug/net7.0/ForEach
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/bin/Debug/net7.0/ForEach.deps.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/bin/Debug/net7.0/ForEach.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/bin/Debug/net7.0/ForEach.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/bin/Debug/net7.0/ForEach.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/refint/ForEach.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ForEach.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/ForEach/obj/Debug/net7.0/ref/ForEach.dll

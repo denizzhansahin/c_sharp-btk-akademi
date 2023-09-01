@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/bin/Debug/net7.0/For-Uygulama
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/bin/Debug/net7.0/For-Uygulama.deps.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/bin/Debug/net7.0/For-Uygulama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/bin/Debug/net7.0/For-Uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/bin/Debug/net7.0/For-Uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/refint/For-Uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/For-Uygulama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/For-Uygulama/obj/Debug/net7.0/ref/For-Uygulama.dll
