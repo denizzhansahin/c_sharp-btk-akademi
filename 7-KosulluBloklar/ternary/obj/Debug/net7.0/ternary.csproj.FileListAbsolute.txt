@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/bin/Debug/net7.0/ternary
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/bin/Debug/net7.0/ternary.deps.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/bin/Debug/net7.0/ternary.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/bin/Debug/net7.0/ternary.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/bin/Debug/net7.0/ternary.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/refint/ternary.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ternary.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/ternary/obj/Debug/net7.0/ref/ternary.dll
