@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/bin/Debug/net7.0/ArrayList
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/bin/Debug/net7.0/ArrayList.deps.json
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/bin/Debug/net7.0/ArrayList.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/bin/Debug/net7.0/ArrayList.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/bin/Debug/net7.0/ArrayList.pdb
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/refint/ArrayList.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.pdb
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ArrayList.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/ArrayList/obj/Debug/net7.0/ref/ArrayList.dll
