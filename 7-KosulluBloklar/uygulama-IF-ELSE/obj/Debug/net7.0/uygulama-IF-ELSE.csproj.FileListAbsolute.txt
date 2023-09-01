@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/bin/Debug/net7.0/uygulama-IF-ELSE
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/bin/Debug/net7.0/uygulama-IF-ELSE.deps.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/bin/Debug/net7.0/uygulama-IF-ELSE.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/bin/Debug/net7.0/uygulama-IF-ELSE.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/bin/Debug/net7.0/uygulama-IF-ELSE.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/refint/uygulama-IF-ELSE.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/uygulama-IF-ELSE.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/uygulama-IF-ELSE/obj/Debug/net7.0/ref/uygulama-IF-ELSE.dll
