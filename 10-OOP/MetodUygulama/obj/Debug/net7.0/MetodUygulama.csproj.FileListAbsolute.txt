@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/bin/Debug/net7.0/MetodUygulama
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/bin/Debug/net7.0/MetodUygulama.deps.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/bin/Debug/net7.0/MetodUygulama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/bin/Debug/net7.0/MetodUygulama.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/bin/Debug/net7.0/MetodUygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/refint/MetodUygulama.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/MetodUygulama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/MetodUygulama/obj/Debug/net7.0/ref/MetodUygulama.dll

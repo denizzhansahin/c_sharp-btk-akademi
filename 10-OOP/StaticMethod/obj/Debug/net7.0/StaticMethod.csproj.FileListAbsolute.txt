@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/bin/Debug/net7.0/StaticMethod
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/bin/Debug/net7.0/StaticMethod.deps.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/bin/Debug/net7.0/StaticMethod.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/bin/Debug/net7.0/StaticMethod.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/bin/Debug/net7.0/StaticMethod.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/refint/StaticMethod.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/StaticMethod.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/StaticMethod/obj/Debug/net7.0/ref/StaticMethod.dll

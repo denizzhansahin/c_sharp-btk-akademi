@@ -1,0 +1,30 @@
+class ile çeşitli özellik ve metodlara sahip nesneler oluşturur. Verileri erişmek ve yönetmek için kullanılır.
+object ise class'tan türetilir.
+
+Program Class:
+<ImplicitUsings>enable</ImplicitUsings> : Çeşitli kütüphünaler önceden tanımlı
+System namespace, Console class, WritLine metod mantığı vardır.
+System.IO : Directory, System ise Console vb. sahiptir.
+Property : veri türleri
+metodlar : iş yapan fonksiyonlar
+public string OgrenciNo {get;set;}//propert oluştur, get set ise veri ver ve al kuralı
+
+Metodlar:
+public void BilgileriYazdir(){
+    Console.WriteLine($"{this.AdSoyad} ve {this.Sube} ve {this.OgrenciNo}");
+}
+
+public string BilgileriYazdir2(){
+    return $"{this.OgrenciNo} , {this.AdSoyad} , {this.Sube}";
+}
+
+Constructors:
+Bir class içinde yapılan işlemler,
+
+AccesModifiers:
+Nesnenin kontrol edilmesi, erişilebilirlik, private ve public
+erişim belirteçleri : protected, internal, protected internal, private protected
+
+
+Static Methods:
+statik method
