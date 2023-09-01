@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/bin/Debug/net7.0/Constructor
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/bin/Debug/net7.0/Constructor.deps.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/bin/Debug/net7.0/Constructor.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/bin/Debug/net7.0/Constructor.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/bin/Debug/net7.0/Constructor.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/refint/Constructor.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/Constructor.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Constructor/obj/Debug/net7.0/ref/Constructor.dll

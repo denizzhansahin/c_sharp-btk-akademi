@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
