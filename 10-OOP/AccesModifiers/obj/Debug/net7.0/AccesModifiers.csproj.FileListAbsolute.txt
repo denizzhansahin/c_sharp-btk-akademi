@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/bin/Debug/net7.0/AccesModifiers
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/bin/Debug/net7.0/AccesModifiers.deps.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/bin/Debug/net7.0/AccesModifiers.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/bin/Debug/net7.0/AccesModifiers.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/bin/Debug/net7.0/AccesModifiers.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/refint/AccesModifiers.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/AccesModifiers.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/AccesModifiers/obj/Debug/net7.0/ref/AccesModifiers.dll

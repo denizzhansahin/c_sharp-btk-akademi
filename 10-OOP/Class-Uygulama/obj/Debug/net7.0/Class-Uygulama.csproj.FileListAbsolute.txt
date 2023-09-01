@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/bin/Debug/net7.0/Class-Uygulama
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/bin/Debug/net7.0/Class-Uygulama.deps.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/bin/Debug/net7.0/Class-Uygulama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/bin/Debug/net7.0/Class-Uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/bin/Debug/net7.0/Class-Uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/refint/Class-Uygulama.dll
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.pdb
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/Class-Uygulama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/10-OOP/Class-Uygulama/obj/Debug/net7.0/ref/Class-Uygulama.dll
