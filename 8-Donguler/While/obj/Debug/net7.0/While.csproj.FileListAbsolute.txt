@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/bin/Debug/net7.0/While
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/bin/Debug/net7.0/While.deps.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/bin/Debug/net7.0/While.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/bin/Debug/net7.0/While.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/bin/Debug/net7.0/While.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/refint/While.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/While.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/While/obj/Debug/net7.0/ref/While.dll
