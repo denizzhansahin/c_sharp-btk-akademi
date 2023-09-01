@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/bin/Debug/net7.0/GenericList
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/bin/Debug/net7.0/GenericList.deps.json
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/bin/Debug/net7.0/GenericList.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/bin/Debug/net7.0/GenericList.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/bin/Debug/net7.0/GenericList.pdb
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/refint/GenericList.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.pdb
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/GenericList.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/GenericList/obj/Debug/net7.0/ref/GenericList.dll

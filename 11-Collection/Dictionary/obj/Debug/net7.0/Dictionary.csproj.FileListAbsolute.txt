@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/bin/Debug/net7.0/Dictionary
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/11-Collection/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

@@ -1,0 +1,29 @@
+Notlar :
+
+Collecitons:
+non-generic Collecitons : bir tip tanımlaması yoktur : ArrayList=>int , string vb. Her bir veri tipi obje olur. dinamik
+generic Collecitons : int, string
+
+ArrayList:
+using System.Collections;
+Add ile ekle, AddRange ile birden fazla ekle, Instert ile genişlet(indexe eleman ekle)
+InsertRange ile farklı bir liste eklenir
+Remove() sil: bulduğu ilk elemanı siler : remove(null): ilk null sil.
+RemoveAt(2): 2.indexteki elemanı sil
+RemoveRange(2,5)// iki numaradan itibaren 5 tane sil
+Contains: liste üzerinde varmı yokmu
+IndexOf : bir elemanın kaçıncı indexte olduğu bulunur.
+
+GenericList:
+Belli bir tipe bağımlı list, sadece atanan değere uygun değerler atanır.
+
+Dictionary:
+key-value mantığı ile çalışır
+generic bir tip, tip tanımlaması gerekir
+ContainsKey : key kontrol etmek
+//update
+sayilar[1] = "one";
+//eleman silmek,index ile
+sayilar.Remove(1);
+//hepsini sıfırlamak
+sayilar.Clear();
