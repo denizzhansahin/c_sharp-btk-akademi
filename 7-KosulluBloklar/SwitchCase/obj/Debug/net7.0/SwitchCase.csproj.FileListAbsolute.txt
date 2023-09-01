@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/bin/Debug/net7.0/SwitchCase
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/bin/Debug/net7.0/SwitchCase.deps.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/bin/Debug/net7.0/SwitchCase.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/bin/Debug/net7.0/SwitchCase.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/bin/Debug/net7.0/SwitchCase.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/refint/SwitchCase.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/SwitchCase.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/SwitchCase/obj/Debug/net7.0/ref/SwitchCase.dll
