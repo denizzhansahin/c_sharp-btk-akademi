@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/bin/Debug/net7.0/IF-ELSE
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/bin/Debug/net7.0/IF-ELSE.deps.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/bin/Debug/net7.0/IF-ELSE.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/bin/Debug/net7.0/IF-ELSE.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/bin/Debug/net7.0/IF-ELSE.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/refint/IF-ELSE.dll
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.pdb
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/IF-ELSE.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/7-KosulluBloklar/IF-ELSE/obj/Debug/net7.0/ref/IF-ELSE.dll
