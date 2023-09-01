@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/bin/Debug/net7.0/KlasorlerCalismak
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/bin/Debug/net7.0/KlasorlerCalismak.deps.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/bin/Debug/net7.0/KlasorlerCalismak.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/bin/Debug/net7.0/KlasorlerCalismak.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/bin/Debug/net7.0/KlasorlerCalismak.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/refint/KlasorlerCalismak.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/KlasorlerCalismak.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/KlasorlerCalismak/obj/Debug/net7.0/ref/KlasorlerCalismak.dll

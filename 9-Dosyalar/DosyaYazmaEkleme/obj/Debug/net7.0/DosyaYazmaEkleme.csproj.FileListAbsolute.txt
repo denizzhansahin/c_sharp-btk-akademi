@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/bin/Debug/net7.0/DosyaYazmaEkleme
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/bin/Debug/net7.0/DosyaYazmaEkleme.deps.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/bin/Debug/net7.0/DosyaYazmaEkleme.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/bin/Debug/net7.0/DosyaYazmaEkleme.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/bin/Debug/net7.0/DosyaYazmaEkleme.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/refint/DosyaYazmaEkleme.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/DosyaYazmaEkleme.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaYazmaEkleme/obj/Debug/net7.0/ref/DosyaYazmaEkleme.dll
