@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/bin/Debug/net7.0/Break-Continue
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/bin/Debug/net7.0/Break-Continue.deps.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/bin/Debug/net7.0/Break-Continue.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/bin/Debug/net7.0/Break-Continue.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/bin/Debug/net7.0/Break-Continue.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/refint/Break-Continue.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/Break-Continue.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/Break-Continue/obj/Debug/net7.0/ref/Break-Continue.dll

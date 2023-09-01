@@ -1,0 +1,24 @@
+Donguler Notlar :
+For, While,Do-while,ForEach
+
+For:
+içinde sırası ile kontrol değişkeni, kontrol ve güncellenemsi yer alır.
+
+While:
+while(i<10){
+    Console.WriteLine(i);
+    i++;
+}
+
+Break-Continue:
+for(var i = 0; i<isim.Length;i++){
+    if(isim[i]=='H'){
+        break;
+    }
+    Console.WriteLine(isim[i]);
+}
+
+Do-While:
+En az bir kere işletilir, ve sonraki turlar için true aranır.
+
+ForEach:

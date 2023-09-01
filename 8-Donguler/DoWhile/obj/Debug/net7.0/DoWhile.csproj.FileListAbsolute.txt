@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/bin/Debug/net7.0/DoWhile
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/bin/Debug/net7.0/DoWhile.deps.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/bin/Debug/net7.0/DoWhile.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/bin/Debug/net7.0/DoWhile.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/bin/Debug/net7.0/DoWhile.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/refint/DoWhile.dll
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.pdb
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/DoWhile.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/8-Donguler/DoWhile/obj/Debug/net7.0/ref/DoWhile.dll
