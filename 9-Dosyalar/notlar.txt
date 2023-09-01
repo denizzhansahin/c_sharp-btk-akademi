@@ -1,0 +1,38 @@
+Dosyalar Notlar:
+
+Stream, verilerin bir hedef ile kaynak ile iletildiği, okuma yazma
+File, bir dosyaya bilgi yazma,bilgi ekleme
+Directory, klasör işlemleri
+Path, bir dosyanın ismi ve uzantı işlemleri
+
+Dosya Okuma:
+StreamReader ile okunan bir nesne oluştur ve File.OpenText dosya açma için kullanılabilir, cursor mantığı ile çalışır.
+string sonuc = File.ReadAllText("deneme.txt"); // tek bir strin olarak okuma
+string[] sonuc1 = File.ReadAllLines("deneme.txt"); //satır satır okuma
+
+Dosya Yazma:
+UTF-8 ile kaydet, eğer açmak istenen dosyanın üzerine yaz, yazma modunu açma modu olarak yazılırsa, bu yüzden ekleme modu ile yaz ,
+StreamWriter sw = File.CreateText("deneme.txt"); //aç
+WriteLine ile ekleme yap ve Close ile kapat, eski içerik silindir ve yeni içerik eklendi
+using kullanılırsa iş bittiğinde otomatik kapatılır
+AppendText ise varolan dosyaya ekleme yapılır
+File.WriteAllText yeni dosya oluştur veya varolan içeriğe yaz, sil ve yaz
+AppendAllText var olanın içine ekler
+
+Klasörler ile Çalışmak :
+Direactory.CreatDirectory("temp"); proje içiersinde bir nesne olmadan çalışır
+Delete ile silme yapılır, olmayan klasörü silemez hata var
+Exists ile varmı yokmu bakılır
+Move ile taşıma işlemi yapılır
+GetCurrentDirectory bulunulan klasör öğrenilir.
+
+Dosya ve Klasörlerle Çalışmak:
+GetDirectories, dizin yolu, * ile hepsi ve , gösterim seçeneği
+GetFiles, dosyalar için
+string[] files = Directory.GetFiles(rootpath,"*.txt",SearchOption.AllDirectories); //istenirse dosya türüde belli olur
+Console.WriteLine(Path.GetExtension(file)); //uzantı
+Console.WriteLine(Path.GetFileNameWithoutExtension(file));//uzantı olmadan dosya adı
+GetFileName ile isim bilgisi gelir
+FileInfo : Dosya bilgisi gelir Length ile size bilgisi gelir, bellek üzerindeki alan bilgisi
+File.Copy(file2,$"{dest_path}{Path.GetFileName(file)}") //dosya, isim seç - yeni veya eski isimde olabilir
+Path.GetRandomFileName rastgele isim üretmek

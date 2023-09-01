@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/bin/Debug/net7.0/DosyaOkuma
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/bin/Debug/net7.0/DosyaOkuma.deps.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/bin/Debug/net7.0/DosyaOkuma.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/bin/Debug/net7.0/DosyaOkuma.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/bin/Debug/net7.0/DosyaOkuma.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/refint/DosyaOkuma.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/DosyaOkuma.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaOkuma/obj/Debug/net7.0/ref/DosyaOkuma.dll

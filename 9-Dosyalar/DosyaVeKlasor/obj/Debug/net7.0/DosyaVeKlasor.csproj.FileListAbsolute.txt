@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/bin/Debug/net7.0/DosyaVeKlasor
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/bin/Debug/net7.0/DosyaVeKlasor.deps.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/bin/Debug/net7.0/DosyaVeKlasor.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/bin/Debug/net7.0/DosyaVeKlasor.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/bin/Debug/net7.0/DosyaVeKlasor.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/refint/DosyaVeKlasor.dll
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.pdb
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/DosyaVeKlasor.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/9-Dosyalar/DosyaVeKlasor/obj/Debug/net7.0/ref/DosyaVeKlasor.dll
