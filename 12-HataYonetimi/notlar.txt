@@ -1,0 +1,46 @@
+Notlar
+//exception
+            //system.formatException - yanlış tip veri
+            //system.dividebyzeroexception - 0 bölme hatası
+            //system.nullreferenceException - alan ayrımama hatası
+            
+
+try catch mantğı var
+
+            try{
+
+                Console.Write("1.Sayi : ");
+                int sayi1= Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("2.Sayi : ");
+                int sayi2= Convert.ToInt32(Console.ReadLine());
+
+                var sonuc = sayi1 / sayi2;
+                Console.WriteLine(sonuc);
+            }
+
+            
+            }catch(FormatException){
+                Console.WriteLine("sayısıal bilgileri doğru gir");
+
+            }catch(DivideByZeroException){
+                Console.WriteLine("sayi2 sıfır olmamalıdır.");
+            }
+            
+            catch(Exception ex){
+                Console.WriteLine("bir hata oluştu");
+                Console.WriteLine(ex.Message);
+            }
+
+
+Hata fırlatma:
+throw new Exception("sayı 5'ten büyük olamaz.");
+
+static:class üzerinden çağrılma,
+
+
+using System.Linq;
+Any metodu var.
+char.IsDigit : karakter bir sayısal veri ise true degil ise false
+char.IsLetter : harf için
+

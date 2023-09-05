@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/bin/Debug/net7.0/HataYonetimi
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/bin/Debug/net7.0/HataYonetimi.deps.json
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/bin/Debug/net7.0/HataYonetimi.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/bin/Debug/net7.0/HataYonetimi.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/bin/Debug/net7.0/HataYonetimi.pdb
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/refint/HataYonetimi.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.pdb
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/HataYonetimi.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataYonetimi/obj/Debug/net7.0/ref/HataYonetimi.dll
