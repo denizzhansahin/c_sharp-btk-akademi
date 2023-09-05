@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/bin/Debug/net7.0/Debug
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/bin/Debug/net7.0/Debug.deps.json
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/bin/Debug/net7.0/Debug.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/bin/Debug/net7.0/Debug.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/bin/Debug/net7.0/Debug.pdb
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/refint/Debug.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.pdb
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/Debug.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/Debug/obj/Debug/net7.0/ref/Debug.dll

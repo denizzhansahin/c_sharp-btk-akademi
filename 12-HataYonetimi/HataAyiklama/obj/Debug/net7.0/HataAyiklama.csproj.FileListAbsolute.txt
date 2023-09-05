@@ -1,0 +1,14 @@
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.GeneratedMSBuildEditorConfig.editorconfig
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.AssemblyInfoInputs.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.AssemblyInfo.cs
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.csproj.CoreCompileInputs.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/bin/Debug/net7.0/HataAyiklama
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/bin/Debug/net7.0/HataAyiklama.deps.json
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/bin/Debug/net7.0/HataAyiklama.runtimeconfig.json
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/bin/Debug/net7.0/HataAyiklama.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/bin/Debug/net7.0/HataAyiklama.pdb
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/refint/HataAyiklama.dll
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.pdb
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/HataAyiklama.genruntimeconfig.cache
+/home/denshn/Masaüstü/C#-BTK/12-HataYonetimi/HataAyiklama/obj/Debug/net7.0/ref/HataAyiklama.dll
