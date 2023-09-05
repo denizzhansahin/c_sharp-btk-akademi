@@ -1,0 +1,29 @@
+Notlar:
+
+Programlama dili : C# JavaScript Python Java
+Platform odaklanma:
+Platform popülerliği:
+öğrenilen dilin platformdaki popülerliği
+yardım, kaynak, iş fırsatı, güncellenme
+
+WEB geliştirme:
+C# için ASP.NET
+JavaScript için Express.JavaScript
+Python için Dijango
+PHP için Laravel
+HTML ve CSS gerekiyor ve JavaScript gerekiyor
+ASP.NET:
+Dinamik web app, web service,SQL, noSQL
+
+Mobil Uygulama:
+C# için Xamarin,.NET MAMUI, JavaScript için ReacNative
+Dart için Flutter, Swift için IOS, Java için Android
+MVC istersen bakabilirsin
+
+Masaüstü Programlama:
+C# için WinForms, .NET MAMUI, JavaScript için ElectronJS,Angular,React,Vuejs
+Java için Desktop, Python için PyQt5
+
+Backend: ASP.NET, WEB API
+Frontend: web, mobil, Desktop
+Fullstack olunur
